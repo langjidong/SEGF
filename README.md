@@ -1,4 +1,8 @@
-# Jidong-Lang
+# SEGF
+
+===============================================
+Edit by Jidong Lang; E-mail: langjd@geneis.cn;
+===============================================
 
 Option
         -fq <Input_File>    Input fq.gz file
@@ -10,4 +14,4 @@ Option
 
 Example:
 
-perl /Share/home/tiangeng/.Work1/PERL/software/SE-GeneFusion-LJD/SEGF.pl -fq test.fq.gz -trim_len 10 -remain_len 35 -configure Target_Gene.conf -process 1
+perl SEGF.pl -fq test.fq.gz -trim_len 10 -remain_len 35 -configure Target_Gene.conf -process 1

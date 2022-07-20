@@ -12,3 +12,7 @@ Option
 Example:
 
 perl SEGF.pl -fq test.fq.gz -trim_len 10 -remain_len 35 -configure Target_Gene.conf -process 1
+
+**Publications**
+
+Xu H, Wu X, Sun D, Li S, Zhang S, Teng M, Bu J, Zhang X, Meng B, Wang W, Tian G, Lin H, Yuan D, Lang J, Xu S. SEGF: A Novel Method for Gene Fusion Detection from Single-End Next-Generation Sequencing Data. Genes (Basel). 2018 Jul 2;9(7):331. doi: 10.3390/genes9070331. PMID: 30004447; PMCID: PMC6070977
